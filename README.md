@@ -6,7 +6,7 @@
 
 **👋 hey, I'm anson, and i build things with computers.**
 
-#### Things i've built with a computer
+#### things i've built with a computer
 - [wheels](https://justusewheels.com/): an all in one transit app for Hong Kong. 5k+ testers (close beta). 1M+ views across platforms
 - [a transit trip planner](https://github.com/wheelstransit/wheels-router-nano) that runs in a browser with WASM. 
 - [a pipeline](https://github.com/wheelstransit/hongkong-community-gtfs) to generate GTFS feed for Hong Kong. used by gnome maps and more.
@@ -15,5 +15,5 @@
 - [a file format](https://github.com/wheelstransit/GTFS-Dense) turning zipped transit feed into compact ram-native file.
 - [a deep neural network](https://huggingface.co/WheelsTransit/HK-TransitFlow-Net) for predicting bus travel times in HK
 
-#### Cool stuff i did without using a computer
+#### cool stuff i did without using a computer
 > Email me and find out xD
