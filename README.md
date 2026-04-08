@@ -16,6 +16,5 @@
 - [a deep neural network](https://huggingface.co/WheelsTransit/HK-TransitFlow-Net) for predicting bus travel times in HK
 - [lookout](https://lookout.hackclub.com/): a no BS time-tracking tool with timelapse
 
-#### cool stuff i did without using a computer
-> Email me and find out xD
+#### silly things i did
 > anson[@]hackclub.com
